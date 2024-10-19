@@ -63,7 +63,7 @@ header {
 }
 
 .search-bar button {
-    background-color: grey;
+    background-color: #D3D3D3;
     padding: 10px;
     border: none;
     border-radius: 5px;
@@ -78,7 +78,7 @@ header {
 .cart-icon img {
     width: 30px;
     height: 30px;
-    margin: 0px 0px 0px 55px;
+    margin: 0px 60px 0px 0px;
 }
 
 .category-bar {
