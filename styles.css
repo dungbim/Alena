@@ -14,8 +14,8 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #f8f8f8;
-    margin: 0px 45px 0px 45px;
-    padding: 0px 0px;
+    margin: 20px 45px 0px 45px;
+    padding: 10px 20px;
     font-size: 14px;
 }
 
@@ -42,7 +42,7 @@ header {
 }
 
 .logo img {
-    width: 180px; /* Adjust logo size */
+    width: 210px; /* Adjust logo size */
     margin: 0px 45px 0px 0px;
 }
 
