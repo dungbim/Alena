@@ -43,7 +43,7 @@ header {
 
 .logo img {
     width: 150px; /* Adjust logo size */
-    margin: 0px 45px 0px 55px;
+    margin: 0px 45px 0px 0px;
 }
 
 .search-bar {
@@ -55,7 +55,7 @@ header {
 
 .search-bar input {
     width: 80%;
-    margin: 0px 45px 0px 55px;
+    margin: 0px 0px 0px 0px;
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -63,7 +63,7 @@ header {
 }
 
 .search-bar button {
-    background-color: white;
+    background-color: grey;
     padding: 10px;
     border: none;
     border-radius: 5px;
@@ -78,7 +78,7 @@ header {
 .cart-icon img {
     width: 30px;
     height: 30px;
-    margin: 0px 45px 0px 55px;
+    margin: 0px 0px 0px 55px;
 }
 
 .category-bar {
