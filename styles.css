@@ -95,7 +95,14 @@ header {
     color: black;
     font-weight: bold;
 }
+.banner {
+    display: flex;
+    background-color: ff5722;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+}
 .banner img {
-    width: 100%;
+    width: 100px;
     margin: 20px 0px 10px 200px;
 }
