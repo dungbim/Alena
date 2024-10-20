@@ -95,8 +95,7 @@ header {
     color: black;
     font-weight: bold;
 }
-.Main Content {
-    background-color: #f8f8f8;
-    width: 630px  /* Adjust Voucher size */
-    padding: 20px 0px 10px 200px;
+.banner img {
+    width: 100%;
+    margin: 20px 0px 10px 200px;
 }
