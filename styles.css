@@ -95,14 +95,16 @@ header {
     color: black;
     font-weight: bold;
 }
-.banner {
+.main {
     display: flex;
-    background-color: ff5722;
     justify-content: space-between;
-    padding: 20px;
-    color: white;
+    align-items: center;
+    margin: 0px 45px 0px 55px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f8f8f8;
 }
 .banner img {
-    width: 100px;
+        width: 210px;
     margin: 20px 0px 10px 200px;
 }
