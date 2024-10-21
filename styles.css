@@ -95,7 +95,7 @@ header {
     color: black;
     font-weight: bold;
 }
-.main section {
+.main-section {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -104,7 +104,7 @@ header {
     border-bottom: 1px solid #ddd;
     background-color: #f8f8f8;
 }
-.banner img {
+.main-section img {
         width: 150px;
         height: 775px
     margin: 70px 0px 10px 200px;
